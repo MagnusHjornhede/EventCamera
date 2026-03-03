@@ -27,7 +27,6 @@ affect tracking accuracy, stability, and robustness.
 If you're new to event-based vision:
 - Event camera overview: https://ieeexplore.ieee.org/document/4444573  
 - Survey on event-based vision (Gallego et al., 2020): https://arxiv.org/abs/1904.08405  
-- Dynamic Vision Sensor (DVS): https://inivation.com/event-based-vision/
 
 ---
 
